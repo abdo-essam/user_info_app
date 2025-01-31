@@ -35,7 +35,6 @@ A beautiful Flutter application that demonstrates Firebase Firestore integration
 
 ## 📱 Screenshots
 
-## Screenshots
 | Home Screen                      | Saved Data Screen                |
 |----------------------------------|----------------------------------|
 | <img src="home.png" width="250"> | <img src="save.png" width="250"> |
